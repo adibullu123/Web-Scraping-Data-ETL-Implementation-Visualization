@@ -1,0 +1,2 @@
+Wikipedia Scraper (ETL Pipeline)
+This project implements a Python-based ETL pipeline using BeautifulSoup to extract structured metadata from Wikipedia pages. The pipeline handles HTML parsing (Extract), data cleaning and normalization (Transform), and outputs schema-ready datasets for ingestion into relational databases or analytics platforms (Load), enabling efficient downstream querying and analysis.
